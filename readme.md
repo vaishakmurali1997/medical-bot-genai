@@ -1,4 +1,4 @@
-# Gena AI Medical Chatbot
+## AI Medical Chatbot
 
 Welcome to the AI Medical Chatbot repository! Gena is an AI-powered chatbot designed to provide general medical information and support. This bot can help users with common medical inquiries, provide information on symptoms, and offer guidance on health-related topics. Please note that medical chat bot is not a substitute for professional medical advice, diagnosis, or treatment.
 
