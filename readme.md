@@ -16,8 +16,8 @@ Once the bot is running, you can interact with it through the command line or in
 
 - **Medical Information**:
     ```
-    User: Tell me about diabetes.
-    Bot: Diabetes is a chronic condition that affects how your body turns food into energy. There are two main types: Type 1 and Type 2...
+    User: Give symptoms of liver disease.
+    Bot: The symptoms of liver disease can vary depending on the severity of the condition, but common symptoms include fatigue, loss of appetite, nausea and vomiting, abdominal pain, and yellowing of the skin and eyes (jaundice). If you suspect that you or someone you know may have liver disease, it is important to consult a healthcare professional for proper diagnosis and treatment.
     ```
     
 ## Disclaimer
