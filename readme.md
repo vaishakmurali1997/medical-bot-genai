@@ -22,5 +22,5 @@ Once the bot is running, you can interact with it through the command line or in
     
 ## Disclaimer
 
-Gena AI Medical Chatbot provides general medical information and is not intended as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
+Medical Chatbot provides general medical information and is not intended as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
 ---
